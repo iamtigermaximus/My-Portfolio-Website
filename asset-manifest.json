@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio-Website/static/css/main.e5035580.chunk.css",
+    "main.js": "/My-Portfolio-Website/static/js/main.44bcbbd0.chunk.js",
+    "main.js.map": "/My-Portfolio-Website/static/js/main.44bcbbd0.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio-Website/static/js/runtime-main.de8b9a7b.js",
+    "runtime-main.js.map": "/My-Portfolio-Website/static/js/runtime-main.de8b9a7b.js.map",
+    "static/js/2.a2b910fa.chunk.js": "/My-Portfolio-Website/static/js/2.a2b910fa.chunk.js",
+    "static/js/2.a2b910fa.chunk.js.map": "/My-Portfolio-Website/static/js/2.a2b910fa.chunk.js.map",
+    "index.html": "/My-Portfolio-Website/index.html",
+    "precache-manifest.0c86747e1fbddc449e40c0df0b01ca37.js": "/My-Portfolio-Website/precache-manifest.0c86747e1fbddc449e40c0df0b01ca37.js",
+    "service-worker.js": "/My-Portfolio-Website/service-worker.js",
+    "static/css/main.e5035580.chunk.css.map": "/My-Portfolio-Website/static/css/main.e5035580.chunk.css.map",
+    "static/js/2.a2b910fa.chunk.js.LICENSE.txt": "/My-Portfolio-Website/static/js/2.a2b910fa.chunk.js.LICENSE.txt",
+    "static/media/BudgetApp.jpg": "/My-Portfolio-Website/static/media/BudgetApp.5a78036a.jpg",
+    "static/media/CovidTrackerApp.jpg": "/My-Portfolio-Website/static/media/CovidTrackerApp.703849b6.jpg",
+    "static/media/PortfolioParallax.jpg": "/My-Portfolio-Website/static/media/PortfolioParallax.a1138b6e.jpg",
+    "static/media/ResponsiveWebsite.jpg": "/My-Portfolio-Website/static/media/ResponsiveWebsite.dc558c01.jpg",
+    "static/media/ToDoApp.jpg": "/My-Portfolio-Website/static/media/ToDoApp.e3533152.jpg",
+    "static/media/style.css": "/My-Portfolio-Website/static/media/starry.959f22f1.jpg",
+    "static/media/techfolio.png": "/My-Portfolio-Website/static/media/techfolio.2b0e7766.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de8b9a7b.js",
+    "static/js/2.a2b910fa.chunk.js",
+    "static/css/main.e5035580.chunk.css",
+    "static/js/main.44bcbbd0.chunk.js"
+  ]
+}
